@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShoeMart - Your Shoe Store</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body bgcolor="yellow">
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <h1>ShoeMart</h1>
+<hr>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#products">Products</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+    <!-- Main Content -->
+    <main id="home">
+        <section class="hero">
+            <h2>Welcome to ShoeMart</h2>
+            <p>Find the perfect pair of shoes for any occasion!</p>
+        </section>
+
+        <section id="products">
+            <h2>Featured Products</h2>
+            <div class="product-grid">
+                <div class="product">
+                    <img src="https://tse2.mm.bing.net/th?id=OIP._BwdoZP9-VyqLAj44k9EiwHaE8&pid=Api&P=0&h=180" alt="Shoe 1">
+                    <h3>Classic Sneakers</h3>
+                    <p>600/-</p>
+                    <button>Add to Cart</button>
+                </div>
+                <div class="product">
+                    <img src="https://tse2.mm.bing.net/th?id=OIP.Fe4qZfZ1KwwDirwGsumOeQAAAA&pid=Api&P=0&h=180" alt="Shoe 2">
+                    <h3>Elegant Loafers</h3>
+                    <p>900/-</p>
+                    <button>Add to Cart</button>
+                </div>
+                <div class="product">
+                    <img src="https://tse4.mm.bing.net/th?id=OIP.P2aZJZSGnOAZJGiQNUfS2wHaHa&pid=Api&P=0&h=180" alt="Shoe 3">
+                    <h3>Running Shoes</h3>
+                    <p>1000/-</p>
+                    <button>Add to Cart</button>
+                </div>
+                <div class="product">
+                    <img src="https://tse1.mm.bing.net/th?id=OIP.E4MUOZTJaLuoPfaNmY3D9QHaDd&pid=Api&P=0&h=180" alt="Shoe 4">
+                    <h3>Casual Boots</h3>
+                    <p>800/-</p>
+                    <button>Add to Cart</button>
+ <br>
+<br>
+<section id="about">
+
+		<h4>About</h4>
+	<p> ShoeMart is a modern and user-friendly e-commerce website dedicated to providing a wide range of footwear for every occasion. Whether you’re looking for trendy sneakers, elegant dress shoes, or durable boots, ShoeMart offers a comprehensive selection of high-quality shoes from various brands. Our goal is to deliver a seamless shopping experience with exceptional customer service.</p>
+		                </div>
+            </div>
+        </section>
+ </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+<section id="contact">
+<b> Contact info<b>
+
+            <p>&copy; 2024 ShoeMart@gmail.com <br> All rights reserved.</p>
+	</section>
+        </div>
+    </footer>
+</body>
+</html>
